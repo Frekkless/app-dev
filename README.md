@@ -1,18 +1,39 @@
 # app-dev
 My first repository
 
-# My Favorite Series on Netflix
+## Resume
 
-# Dexter
+# Ernel Arsola
 
-## Synopsis
-*Dexter* follows the life of Dexter Morgan, a Miami-based blood splatter expert who doesn't just solve murders; he commits them too. In fact, he's a serial killer -- but he only murders the guilty, so he feels justified with his lifestyle choices. His policewoman sister and his cop co-workers have no idea Dexter lives a double life; however, adoptive father Harry knows his secret, and does, in fact, help Dexter hone his "skills." It's a unique brand of justice for which charming Dexter feels a psychological hunger.
+Bik 19 Lot 1 Phase 2 Spring Town Villas  
+Brgy Gaya-Gaya CSJDM, Bulacan, 3023  
+Phone: 09999638382  
+Email: arsola.300630@sjdelmonte.sti.edu.ph  
 
-## Main Characters
-- **Dexter Morgan**: The protagonist, a blood spatter analyst for the Miami Metro Police Department who leads a secret life as a vigilante serial killer.
-- **Debra Morgan**: Dexter's adoptive sister who works as a homicide detective in the same department.
-- **Harry Morgan**: Dexter's adoptive father who recognized his son's dark tendencies and taught him to channel them into vigilantism.
-- **Rita Morgan**: Dexter's girlfriend and later wife, who is unaware of his dark side for much of the series.
-- **Sergeant James Doakes**: A suspicious and abrasive detective who harbors a deep mistrust of Dexter.
+## Summary
+Enthusiastic and motivated individual with a passion for music and basketball. Possesses strong skills in active listening, communication, computer, and creativity. Eager to contribute positively to a dynamic team and make a meaningful impact. Recognized for being adept at problem-solving and analytical thinking, with a keen attention to detail. Proven ability to adapt to new challenges and environments, with a strong desire to continually learn and grow. Committed to excellence in all endeavors and dedicated to achieving personal and professional goals. Excited about the opportunity to apply existing skills while acquiring new ones, fostering innovation and driving positive change within the organization.
 
-*Dexter* is a gripping psychological thriller that keeps viewers on the edge of their seats with its morally complex protagonist and intense storytelling.
+## Education
+**Bachelor of Science in Computer Engineering**  
+STI, City of San Jose del Monte, Bulacan  
+Expected Graduation: May 20XX  
+
+## Skills
+- Problem-Solving and Analytical Skills
+- Strong Communication Skills
+- Attention to Detail
+- Active Listening
+- Creativity
+
+## Experience
+*No formal work experience available at the moment.*
+
+## Projects
+*No projects to list at present.*
+
+## Certifications
+- With Honors, Senior High School
+
+## Languages
+- Tagalog/Filipino (Native)
+- English (Intermediate)
